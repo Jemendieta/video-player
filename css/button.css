@@ -1,0 +1,25 @@
+/* estilos de mi boton */
+.button {
+  inline-size: 32px;
+  block-size: 32px;
+  border: none;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: center;
+  cursor: pointer;
+}
+.button:active {
+  transform: scale(0.9);
+}
+#play {
+  background-image: url("../images/play.svg");
+}
+#pause {
+  background-image: url("../images/pause.svg");
+}
+#backward {
+  background-image: url("../images/menos.svg");
+}
+#fordward {
+  background-image: url("../images/mas.svg");
+}
