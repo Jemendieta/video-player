@@ -2,4 +2,4 @@
 
 Creado con Html, Css y JavaScript
 
-![poster del proyecto](images/poster.jpg)
+![poster del proyecto](images/player.png)
